@@ -1,13 +1,19 @@
 # GraphV: Graph Visualization Tool
 GraphV is a graph visualization tool. It allows users to create, edit, and traverse graphs with ease. With GraphV, you can add nodes, connect them, and apply graph traversal algorithms to navigate through the graph. The app provides a user-friendly interface and smooth animations to enhance the visualization experience.
 
-![Alt text](assets/graph-image.png)
+![Graph Image](assets/graph-image.png)
 
 ## Features
 - **Node Manipulation**: Add nodes and move them freely across the screen.
 - **Graph Editing**: Connect nodes to create custom graphh. Select the source and destination nodes.
 - **Traversal Algorithms**: Choose from Depth-First Search (DFS) and Breadth-First Search (BFS) algorithms to traverse the graph.
 - **Traversal Animation**: Watch as the algorithm traverses through the graph with animated node movements.
+
+## Creating Graph
+![Graph Creation Video](assets/adding-nodes.gif)
+
+## Traversal Animation
+![Graph Traversal Video](assets/graph-traversal.gif)
 
 ## How to use
 #### Adding Nodes:
