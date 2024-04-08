@@ -9,11 +9,11 @@ GraphV is a graph visualization tool. It allows users to create, edit, and trave
 - **Traversal Algorithms**: Choose from Depth-First Search (DFS) and Breadth-First Search (BFS) algorithms to traverse the graph.
 - **Traversal Animation**: Watch as the algorithm traverses through the graph with animated node movements.
 
-## Creating Graph
-![Graph Creation Video](assets/adding-nodes.gif)
-
 ## Traversal Animation
 ![Graph Traversal Video](assets/graph-traversal.gif)
+
+## Creating Graph
+![Graph Creation Video](assets/adding-nodes.gif)
 
 ## How to use
 #### Adding Nodes:
