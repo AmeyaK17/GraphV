@@ -1,5 +1,5 @@
 # GraphV: Graph Visualization Tool
-GraphV is a graph visualization tool. It allows users to create, edit, and traverse graphs with ease. With GraphV, you can add nodes, connect them, and apply graph traversal algorithms to navigate through the graph. The app provides a user-friendly interface and smooth animations to enhance the visualization experience.
+GraphV is a graph visualization tool. It allows users to create, edit, and traverse graphs with ease. With GraphV, you can add nodes, manipulate and connect them, and apply graph traversal algorithms to navigate through the graph. The app provides a user-friendly interface and smooth animations to enhance the visualization experience.
 
 ![Graph Image](assets/graph-image.png)
 
